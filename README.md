@@ -1,4 +1,5 @@
-Calculadora de IMC
+# Calculadora de IMC
+
 Projeto criado com o intuito de calcular e exibir o Índice de Massa Corporal do usuário através da inserção de dados como altura e peso, conforme fórmula e valores definidos pela OMS - Organização mundial de Saúde.
 
 Tecnologias utilizadas:
@@ -16,7 +17,8 @@ Após finalizar a instalação, executar um dos comandos abaixo para iniciar a a
 
 npm start ou yarn start
 
-BMI Calculator
+# BMI Calculator
+
 Project created in order to calculate and display the user's Body Mass Index by entering data such as height and weight, according to the formula and values ​​defined by the WHO - World Health Organization.
 
 Technologies:
