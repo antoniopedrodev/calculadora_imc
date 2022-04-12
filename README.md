@@ -13,11 +13,11 @@ Projeto criado com o intuito de calcular e exibir o Índice de Massa Corporal do
 
 1) Executar um dos comandos abaixo de acordo com o gerenciador de pacotes de sua preferência para instalar as dependências do projeto:
 
-npm install ou yarn install
+    npm install ou yarn install
 
 2) Após finalizar a instalação, executar um dos comandos abaixo para iniciar a aplicação:
 
-npm start ou yarn start
+    npm start ou yarn start
 
 # BMI Calculator
 
@@ -32,8 +32,8 @@ Project created in order to calculate and display the user's Body Mass Index by 
 
 Run one of the commands below according to your preferred package manager to install the project's dependencies:
 
-npm install or yarn install
+    npm install or yarn install
 
 After the installation is complete, run one of the commands below to start the application:
 
-npm start or yarn start
+    npm start or yarn start
