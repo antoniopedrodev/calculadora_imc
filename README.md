@@ -11,11 +11,11 @@ Projeto criado com o intuito de calcular e exibir o Índice de Massa Corporal do
 
 * É necessário ter o node instalado em sua máquina. Caso não tenha feito a instalação, acessar o site https://nodejs.org/en/ e seguir o tutorial conforme o seu sistema operacional.
 
-1) Executar um dos comandos abaixo de acordo com o gerenciador de pacotes de sua preferência para instalar as dependências do projeto:
+* Executar um dos comandos abaixo de acordo com o gerenciador de pacotes de sua preferência para instalar as dependências do projeto:
 
     npm install ou yarn install
 
-2) Após finalizar a instalação, executar um dos comandos abaixo para iniciar a aplicação:
+* Após finalizar a instalação, executar um dos comandos abaixo para iniciar a aplicação:
 
     npm start ou yarn start
 
@@ -30,10 +30,12 @@ Project created in order to calculate and display the user's Body Mass Index by 
 
 ### Starting the application:
 
-Run one of the commands below according to your preferred package manager to install the project's dependencies:
+* You must have node installed on your machine. If you don't have it, access the website https://nodejs.org/en/ and follow the tutorial according to your operating system.
+
+* Run one of the commands below according to your preferred package manager to install the project's dependencies:
 
     npm install or yarn install
 
-After the installation is complete, run one of the commands below to start the application:
+* After the installation is complete, run one of the commands below to start the application:
 
     npm start or yarn start
